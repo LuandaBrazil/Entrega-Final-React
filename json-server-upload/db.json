@@ -1,0 +1,44 @@
+{
+  "bolos": [
+    {
+      "nome": "Bolo de cenoura",
+      "cobertura": "Margarina, Açúcar, Chocolate em pó solúvel, Leite",
+      "ingredientes": "Cenouras, Margarina, Ovos, Açúcar, Farinha de trigo, Fermento químico em pó",
+      "valor": "55",
+      "user_img": "1699381362195.png",
+      "id": 1
+    },
+    {
+      "nome": "Morango",
+      "valor": "150",
+      "ingredientes": "Farinha de trigo, Manteiga, 15 morangos ",
+      "cobertura": "Morangos picados (300gr), Calda de Morango e Chantilly",
+      "user_img": "1700323416877.jpeg",
+      "id": 2
+    },
+    {
+      "nome": "Bolo de frutas frescas",
+      "valor": "185",
+      "ingredientes": "Farinha de Trigo, ovos, manteiga, leite e frutas frescas da estação.",
+      "cobertura": "Pedaços de frutas cortadas, com cobertura transparente de baunilha.",
+      "user_img": "1700327984199.jpg",
+      "id": 3
+    },
+    {
+      "nome": "Bolo de Chocolate",
+      "valor": "160",
+      "ingredientes": "Farinha de Trigo, Ovos, Manteiga, Leite, Açúcar, Chocolate de Confeiteiro e Lascas de Chocolate amargo.",
+      "cobertura": "Lascas de Chocolate Amargo.",
+      "user_img": "1700328859022.jpg",
+      "id": 4
+    },
+    {
+      "nome": "Bolo Rock And Roll",
+      "valor": "185",
+      "ingredientes": "Farinha de trigo, Leite, Ovos, Manteiga.",
+      "cobertura": "Pasta Americana com o tema Rock and Roll.",
+      "user_img": "1700330330190.jpg",
+      "id": 5
+    }
+  ]
+}
